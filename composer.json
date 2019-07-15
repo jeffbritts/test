@@ -2,8 +2,8 @@
     "name": "jeffbritts/test",
     "type": "magento2-module",
     "require": {
-         "magentoese/module-venia-setup": "dev-master"
-
+         "magentoese/module-venia-setup": "dev-master",
+        "amasty/module-advanced-conditions":"1.3.12.x-dev"
 
     }
 }
