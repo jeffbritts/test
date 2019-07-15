@@ -2,7 +2,7 @@
     "name": "jeffbritts/test",
     "type": "magento2-module",
     "require": {
-         "magentoese/module-venia-setup": "dev-master"
+         "splendidinternet/mage2-locale-de-de": "*"
 
 
     }
