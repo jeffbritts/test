@@ -5,8 +5,5 @@
          "magentoese/module-venia-setup": "dev-master"
 
 
-    },
-    "repositories": [
-        {"type": "git", "url": "git@github.com:PMET-public/module-venia-setup.git"}
-        ]
+    }
 }
