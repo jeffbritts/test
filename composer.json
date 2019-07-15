@@ -1,5 +1,5 @@
 {
-    "name": "jbritts/test",
+    "name": "jeffbritts/test",
     "type": "magento2-module",
     "require": {
          "magentoese/module-venia-setup": "dev-master"
