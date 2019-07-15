@@ -1,5 +1,5 @@
 {
-    "name": "magentoese/module-luma-de-setup",
+    "name": "jbritts/test",
     "type": "magento2-module",
     "require": {
          "magentoese/module-venia-setup": "dev-master"
