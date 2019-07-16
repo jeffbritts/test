@@ -1,5 +1,5 @@
 {
-  "name": "magentoese/package-pagebuilder-extensions",
+  "name": "magentoese/package",
   "type": "magento2-module",
   "require": {
     "magento/module-page-builder": "*",
