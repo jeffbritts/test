@@ -1,8 +1,14 @@
 {
     "name": "jeffbritts/test",
+    "type": "magento2-module",
     "require": {
-         "magentoese/module-venia-setup": "dev-master",
-       "amasty/base": "1.7.0.x-dev"
-
+         "magento/module-page-builder": "*",
+         "davemacaulay/module-page-builder-grid": "dev-master",
+         "example/module-page-builder-faq": "dev-master",
+         "example/module-page-builder-quote": "dev-master",
+         "example/module-page-builder-extension-banner": "dev-master",
+         "example/module-page-builder-extension-base-forms": "dev-master",
+         "example/module-page-builder-extension-slider": "dev-master",
+         "example/module-page-builder-extension-text": "dev-master"
     }
 }
