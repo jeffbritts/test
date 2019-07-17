@@ -1,5 +1,5 @@
 {
-  "name": "magentoese/package-utilities",
+  "name": "jbritts/package-utilities",
   "type": "magento2-module",
   "require": {
     "firegento/fastsimpleimport": "dev-updated",
